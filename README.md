@@ -1,3 +1,5 @@
+You must include gem 'haml-rails' within your project's Gemfile.
+
 SpreeQuickCart
 ==============
 
