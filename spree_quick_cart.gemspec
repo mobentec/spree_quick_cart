@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = '2.2.10'
   s.summary     = 'Insert add to cart button in product index page'
   s.description = 'Adds js quick add to cart button to product catalogue'
-  s.required_ruby_version = '>= 2.0.0'
+  s.required_ruby_version = '>= 2.0.4'
 
   s.author    = 'Francisco Trindade'
   s.email     = 'frank.trindade@gmail.com'
